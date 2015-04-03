@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%              UNIVERSIDAD TECNOL?GICA DE PANAMA                    %%%
+%%%              UNIVERSIDAD TECNOLOGICA DE PANAMA                    %%%
 %%%                FACULTAD DE INGENIERIA MECANICA                    %%%
-%%%    DEPARTAMENTO DE DISE?O DE SISTEMAS Y COMPONENTES MECACNICOS    %%%
+%%%    DEPARTAMENTO DE DISEÑO DE SISTEMAS Y COMPONENTES MECANICOS    %%%
 %%%                                                                   %%%
 %%% CODIGO GENERADO POR: ING. JORGE DE LA CRUZ                        %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
