@@ -24,8 +24,8 @@ fi20=0;
 y0=[0 0 0 0 0 pi/2 0 0 -pi/2]; %condiciones iniciales para la función fsolve
 for i=1:length(tiempo),
     t=tiempo(i);
-    y2(i,:)=fsolve(@cartesianas,y0);
-    y0=y2(i,:);
+    y2(i,:)=fsolve(@cartesianas,y0); %La función fsolve resuelve el sistema de ecuaciones
+    y0=y2(i,:);                      %dado en el archivo cartesianas.
 end
 figure(2)
 plot(tiempo,y2(:,6))
